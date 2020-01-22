@@ -1,0 +1,10 @@
+.MuiLinearProgress-barColorPrimary {
+  background-color: #e3714d !important;
+}
+
+.progress-bar-div {
+  position: absolute;
+  width: 100%;
+  max-width: 440px;
+  margin-left: -2em;
+}
